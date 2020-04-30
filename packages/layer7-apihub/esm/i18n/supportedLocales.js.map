@@ -1,0 +1,1 @@
+{"version":3,"file":"supportedLocales.js","sourceRoot":"","sources":["../../src/i18n/supportedLocales.js"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,aAAa,GAAG,IAAI,CAAC;AAElC,MAAM,CAAC,MAAM,gBAAgB,GAAG;IAC5B,EAAE,EAAE,SAAS;IACb,EAAE,EAAE,SAAS;IACb,EAAE,EAAE,UAAU;CACjB,CAAC;AAEF,MAAM,CAAC,MAAM,oBAAoB,GAAG;IAChC,EAAE,EAAE,OAAO;IACX,EAAE,EAAE,OAAO;IACX,EAAE,EAAE,OAAO;CACd,CAAC"}
